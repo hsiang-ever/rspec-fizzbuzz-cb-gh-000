@@ -5,4 +5,5 @@ def fizzbuzz(num)
     puts "fizz"
   elsif num % 5 == 0
     puts "buzz"
+  end
 end
